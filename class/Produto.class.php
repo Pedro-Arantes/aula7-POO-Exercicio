@@ -2,7 +2,7 @@
 
 
 
-class Usuario{
+class Produto{
 
     private $dados;
 
@@ -12,7 +12,7 @@ class Usuario{
 
 
 
-    const Entity = 'tblusuarios';
+    const Entity = 'tblprodutos';
 
 
 

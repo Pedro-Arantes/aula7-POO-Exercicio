@@ -31,7 +31,7 @@
 
 
 
-        $cadUsuario = new Usuario();
+        $cadUsuario = new Produto();
 
         $cadUsuario->exeCreate($dados);
 
